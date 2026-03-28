@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Ushir/OneDrive/Documents/fitness-mlops-project/mlruns/1/models/m-51bc3700bc65406d86b15f730d51b492/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-51bc3700bc65406d86b15f730d51b492
+model_size_bytes: 612
+model_uuid: m-51bc3700bc65406d86b15f730d51b492
+prompts: null
+run_id: 5c47477937724c24b0a94b273bce7b3d
+utc_time_created: '2026-03-28 19:31:04.881580'
