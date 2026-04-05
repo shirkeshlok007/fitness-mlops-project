@@ -1,8 +1,7 @@
-pandas
-numpy
-scikit-learn
-mlflow
 fastapi
 uvicorn
-dvc
-xgboost
+scikit-learn
+pandas
+numpy
+joblib
+mlflow
