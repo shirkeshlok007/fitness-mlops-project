@@ -1,64 +1,54 @@
-# \# 🚀 Fitness MLOps Project
+\### Features
 
-# 
+\- ML Prediction API
 
-# \## 📌 Overview
+\- Body Fat Calculator
 
-# This project is an end-to-end MLOps system using FastAPI and Machine Learning.
+\- Calories Burn Estimation
 
-# 
+\- Workout Recommendation
 
-# \## 🔥 Features
+\- BMI \& Health Risk
 
-# \- ML Prediction API
 
-# \- Body Fat Calculator
 
-# \- Calories Burn Estimation
+\###  Tech Stack
 
-# \- Workout Recommendation
+\- FastAPI
 
-# \- BMI \& Health Risk
+\- Scikit-learn
 
-# 
+\- NumPy
 
-# \## 🛠 Tech Stack
+\- GitHub
 
-# \- FastAPI
+\- GitHub Actions (CI)
 
-# \- Scikit-learn
+\- Render (CD)
 
-# \- NumPy
 
-# \- GitHub
 
-# \- GitHub Actions (CI)
+\###  Live API
 
-# \- Render (CD)
+https://fitness-mlops-project-1.onrender.com/docs
 
-# 
 
-# \## 🌐 Live API
 
-# https://fitness-mlops-project-1.onrender.com/docs
+\###  Run Locally
 
-# 
+uvicorn app:app --reload
 
-# \## ▶️ Run Locally
 
-# uvicorn app:app --reload
 
-# 
+\### 🔄 CI/CD
 
-# \## 🔄 CI/CD
+\- CI: GitHub Actions
 
-# \- CI: GitHub Actions
+\- CD: Render
 
-# \- CD: Render
 
-# 
 
-# \## 🎯 Conclusion
+\###  Conclusion
 
-# Complete MLOps pipeline with deployment and automation.
+Complete MLOps pipeline with deployment and automation.
 
